@@ -2,9 +2,9 @@
 layout:     post
 title:      JavaScript para iniciantes - O que são Objetos?
 date:       2013-11-03 19:44:00
-summary:    
+summary:
 categories: javascript-e-jquery
-permalink:  :categories/:title
+permalink:  /:categories/:title
 ---
 
 Escrevi este artigo com o objetivo de ajudar quem está começando estudar JavaScript. Como futuro programador JavaScript, é fundamental que você entenda o que são, e como funcionam os objetos nessa poderosa linguagem. É claro que existem muitos outros detalhes sobre Objetos em JavaScript, mas espero que esse artigo lhe sirva de ajuda como um ponto de partida em suas pesquisas.

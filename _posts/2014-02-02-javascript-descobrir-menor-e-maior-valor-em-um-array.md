@@ -4,7 +4,7 @@ title:      JavaScript - Descobrir Menor e Maior valor em um Array
 date:       2014-02-02 21:54:00
 summary:
 categories: javascript-e-jquery
-permalink:  :categories/:title
+permalink:  /:categories/:title
 ---
 
 <p>Neste artigo irei mostrar técnicas para resolver de forma muito simples, um problema que geralmente uma hora ou outra acabamos precisando solucionar (eu por exemplo, já me deparei com esse problema em uma entrevista de emprego). Essas técnicas podem não ser novidade para alguns, mas tenho certeza que poderá ser novidade (e de forte ajuda) para outros.</p>

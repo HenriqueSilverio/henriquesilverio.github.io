@@ -4,7 +4,7 @@ title:      Novo plugin para WordPress lançado - WP Like System
 date:       2014-02-07 11:52:00
 summary:
 categories: php-e-wordpress
-permalink:  :categories/:title
+permalink:  /:categories/:title
 ---
 
 É com grande satisfação que venho através desse post, anunciar mais um novo plugin que desenvolvi para WordPress. O nome desse plugin é <strong>WP Like System</strong>, e você pode fazer o <a href="http://wordpress.org/plugins/wp-like-system/" target="_blank">download aqui</a> no repositório oficial do WordPress.org.

@@ -4,7 +4,7 @@ title:      Paginação de posts customizada no WordPress sem plugin
 date:       2013-03-01 18:15:00
 summary:    Aprenda fazer uma páginação de posts customizada para WordPress, sem utilizar um plugin.
 categories: php-e-wordpress
-permalink:  :categories/:title
+permalink:  /:categories/:title
 ---
 
 Já faz alguns anos que adotei o [WordPress](http://br.wordpress.org) como plataforma de **CMS** para grande parte de meus projetos sejam eles blogs, sites institucionais etc. O **WordPress** é uma excelente plataforma de código open source mantida por uma comunidade enorme de desenvolvedores ao redor do mundo, possui [milhares de plugins](http://wordpress.org/extend/plugins) interessantes e podemos customiza-lo livremente de diversas maneiras. Por esses e outros motivos, trabalhar com **WordPress** é muito bacana.
@@ -81,7 +81,7 @@ if(1 != $pages) {
         }
     }
 
-    if ($paged < $pages && $showitems < $pages) echo "<a href='".get_pagenum_link($paged + 1)."' class='btn'>&rsaquo;</a>";  
+    if ($paged < $pages && $showitems < $pages) echo "<a href='".get_pagenum_link($paged + 1)."' class='btn'>&rsaquo;</a>";
     if ($paged < $pages-1 &&  $paged+$range-1 < $pages && $showitems < $pages) echo "<a href='".get_pagenum_link($pages)."' class='btn'>Ultima</a>";
     echo "</nav>\n";
 }

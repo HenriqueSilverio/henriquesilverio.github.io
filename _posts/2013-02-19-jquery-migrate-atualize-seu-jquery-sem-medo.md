@@ -4,7 +4,7 @@ title:      jQuery Migrate – Atualize seu jQuery sem medo
 date:       2013-02-19 19:30:00
 summary:    Para evitar erros é importante ficar atento ao atualizar o jQuery em um projeto que está rodando em produção. Para nos ajudar nesse upgrade, agora temos o plugin jQuery Migrate.
 categories: javascript-e-jquery
-permalink:  :categories/:title
+permalink:  /:categories/:title
 ---
 
 ![jQuery Migrate](/images/jquery-migrate.jpg)

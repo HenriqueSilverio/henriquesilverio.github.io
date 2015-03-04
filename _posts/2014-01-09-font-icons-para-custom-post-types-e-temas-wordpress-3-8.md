@@ -4,7 +4,7 @@ title:      Font Icons para Custom Post Types e Temas ~ WordPress 3.8
 date:       2014-01-09 11:27:00
 summary:
 categories: php-e-wordpress
-permalink:  :categories/:title
+permalink:  /:categories/:title
 ---
 
 <p>Se você conhece o WordPress há um bom tempo e tem acompanhado de perto sua evolução, ao instalar a versão 3.8, sem dúvida deve ter se surpreendido com a grande mudança feita na interface do painel administrativo. O design ficou muito mais limpo e moderno, coisa linda.</p>

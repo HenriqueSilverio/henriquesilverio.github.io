@@ -4,7 +4,7 @@ title:      WP Upcoming Releases - meu novo plugin para WordPress
 date:       2014-01-29 16:45:00
 summary:
 categories: php-e-wordpress
-permalink:  :categories/:title
+permalink:  /:categories/:title
 ---
 
 Pouco tempo atrás tive a oportunidade de lançar meu primeiro plugin para WordPress. Publiquei ele no <a target="_blank" href="http://wordpress.org/plugins/">repositório oficial</a> e divulguei discretamente para alguns colegas. Agora gostaria de anunciá-lo aqui no blog para que todos possam conhecê-lo, e caso ache interessante, você poderá fazer o download e utilizá-lo em seu site/blog.

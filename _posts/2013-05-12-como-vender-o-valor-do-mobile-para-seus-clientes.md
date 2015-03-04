@@ -4,7 +4,7 @@ title:      Como vender o valor do mobile para seus clientes
 date:       2013-05-12 20:38:00
 summary:    Artigo que traduzi do blog Smashing Magazine.
 categories: sem-categoria
-permalink:  :categories/:title
+permalink:  /:categories/:title
 ---
 
 

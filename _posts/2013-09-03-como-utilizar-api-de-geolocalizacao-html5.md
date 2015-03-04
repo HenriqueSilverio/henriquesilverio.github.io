@@ -2,9 +2,9 @@
 layout:     post
 title:      Como utilizar API de Geolocalização HTML5
 date:       2013-09-03 15:00:00
-summary:    
+summary:
 categories: javascript-e-jquery
-permalink:  :categories/:title
+permalink:  /:categories/:title
 ---
 
 Nesse artigo irei mostrar **como utilizar geolocalização com HTML5**. O uso dessa API é muito simples, e as possibilidades de aplicações que ela nos traz são fantásticas, sendo assim um recurso muito bacana para sites e aplicações web modernas.

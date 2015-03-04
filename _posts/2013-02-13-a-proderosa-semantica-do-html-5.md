@@ -4,7 +4,7 @@ title:      A poderosa semântica do HTML5
 date:       2013-02-13 11:30:00
 summary:    Um pouco sobre as novas tags semânticas do HTML5 que você deve usar já.
 categories: html-e-css
-permalink:  :categories/:title
+permalink:  /:categories/:title
 ---
 
 Cada vez mais desenvolvedores ao redor do mundo utilizam **HTML5** como linguagem de marcação padrão em seus projetos. Para falar a verdade, se você é um profissional da web e em pleno 2013 ainda não utiliza **HTML5**… “em que mundo você está?”

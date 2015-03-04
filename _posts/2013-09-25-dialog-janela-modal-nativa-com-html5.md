@@ -4,7 +4,7 @@ title:      dialog - Janela modal nativa com HTML5
 date:       2013-09-25 15:00:00
 summary:
 categories: html-e-css
-permalink:  :categories/:title
+permalink:  /:categories/:title
 ---
 
 Um recurso bastante utilizado em diversos tipos de aplicações são as famosas "janelas modais". Provavelmente você já deve ter utilizado esse recurso em algum de seus projetos. Caso já tenha utilizado, como você desenvolveu essa feature? Adicionou elementos extras no DOM e aplicou algumas técnicas de CSS? JavaScript "puro" ou talvez um plugin jQuery, certo?
