@@ -4,7 +4,6 @@ title:      Manipulando classes com classList API
 date:       2014-03-23 22:54:00
 summary:
 categories: javascript-e-jquery
-permalink:  /:categories/:title
 ---
 
 <p>Manipular classes de CSS em elementos HTML é uma tarefa muito útil, e até corriqueira, para quem trabalha com JavaScript. Provavelmente, você já sabe como fazer isso com jQuery. Porém, o que nem todos sabem ainda, é que temos uma API nativa de JavaScript para executar essas tarefas.</p>

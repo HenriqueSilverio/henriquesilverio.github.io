@@ -4,7 +4,6 @@ title:      Review do livro "Maintainable JavaScript"
 date:       2014-05-11 23:30:00
 summary:
 categories: javascript-e-jquery
-permalink:  /:categories/:title
 ---
 
 Semana passada (mais especificamente dia 04/05/2014) terminei a leitura do livro "<strong>Maintainable JavaScript</strong>" escrito por <strong>Nicholas C. Zakas</strong>. Resolvi então fazer um review com algumas considerações que achei importante em cada capítulo.

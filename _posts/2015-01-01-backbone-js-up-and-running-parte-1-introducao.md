@@ -4,7 +4,6 @@ title:      Backbone.js up and running - Parte 1 - Introdução
 date:       2015-01-01 22:30:00
 summary:
 categories: javascript-e-jquery
-permalink:  /:categories/:title
 ---
 
 <p><img src="/images/backbone-logo.png"></p>

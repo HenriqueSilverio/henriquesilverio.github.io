@@ -4,10 +4,7 @@ title:      Como vender o valor do mobile para seus clientes
 date:       2013-05-12 20:38:00
 summary:    Artigo que traduzi do blog Smashing Magazine.
 categories: sem-categoria
-permalink:  /:categories/:title
 ---
-
-
 
 Recentemente conheci um pessoal da comunidade de Front-end’s do Brasil que resolveram criar um blog dedicado para traduções de artigos sobre desenvolvimento web, que foi chamado de [Code in Brasil](https://codeinbrasil.wordpress.com). Achei a idéia bacana e decidi colaborar, pois todos sabemos o quanto é difícil encontrar  conteúdo de qualidade sobre web em nossa língua.
 

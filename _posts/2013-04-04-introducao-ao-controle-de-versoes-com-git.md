@@ -4,7 +4,6 @@ title:      Introdução ao controle de versões com Git
 date:       2013-04-04 19:00:00
 summary:    Vantagens de se utilizar um bom sistema de controle de versão e também como instalar o Git nos ambientes Linux, Windows e Mac.
 categories: git-e-github
-permalink:  /:categories/:title
 ---
 
 O Git foi criado por Linus Torvalds e originou-se durante o processo de desenvolvimento do Kernel do Linux. Git é um sistema open source para controle de versão distribuído e gerenciamento de código fonte projetado para lidar com os mais diversos tipos de projetos, desde os menores até os mais complexos, com velocidade e eficiência.

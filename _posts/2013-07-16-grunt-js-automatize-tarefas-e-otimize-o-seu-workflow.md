@@ -4,7 +4,6 @@ title:      Grunt JS - Automatize tarefas e otimize o seu workflow
 date:       2013-09-03 15:00:00
 summary:
 categories: javascript-e-jquery
-permalink:  /:categories/:title
 ---
 
 <div style="text-align: center;">
