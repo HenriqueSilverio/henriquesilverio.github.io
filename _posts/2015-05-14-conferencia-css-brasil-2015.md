@@ -6,7 +6,7 @@ summary: Dia 09 de Maio de 2015 aconteceu em São Paulo a 1ª Conferência CSS d
 categories: eventos
 ---
 
-No Sábado, dia 09 de Maio de 2015, tive a oportunidade de estar presente na **1ª Conferência CSS Brasil**, que aconteceu em São Paulo. Como já era de se esperar, o evento foi recheado de conteúdo muito bom.
+No Sábado, dia 09 de Maio de 2015, tive a oportunidade de estar presente na **1ª Conferência CSS Brasil**, que aconteceu no Maksoud Plaza em São Paulo. Como já era de se esperar, o evento foi recheado de conteúdo muito bom.
 
 Fiz algumas anotações e juntei tudo nesse artigo, para que você possa acompanhar e ficar por dentro do que rolou por lá.
 
