@@ -71,6 +71,15 @@ Então o Shiota apresentou algumas propriedades de CSS que até então não conh
 A Web está cada vez mais sendo considerada uma fonte de conteúdo relevante. E o conteúdo é o que **realmente importa** para os usuários. Então saber escolher uma fonte descente é extremamente importante, mesmo que tenha que pagar "caro" por uma, duas ou a família inteira de fontes.
 
 
+## Sorteio de brindes
+
+Entre uma palestra e outra, tivemos vários sorteios de brindes. E não é que eu ganhei uma camiseta da conferência? E ainda acabei sendo sorteado duas vezes. Na segunda, que era uma cartela de adesivos, passei para outro participante, e daí pra frente quem ia sendo sorteado duas vezes também ia passando o brinde pra outro. Aqui está uma foto da camiseta, que foi aprovada pelo [Edu Agni](https://twitter.com/eduagni) (quem esteve presente vai entender isso melhor). :-P
+
+<p style="text-align: center;">
+    <img src="/images/camiseta-conferencia-css.jpg" alt="Camiseta da 1ª Conferência CSS BRasil">
+</p>
+
+
 ## Testando seu CSS!
 
 **Slides**: [https://speakerdeck.com/eduardojmatos/testes-de-css](https://speakerdeck.com/eduardojmatos/testes-de-css)
