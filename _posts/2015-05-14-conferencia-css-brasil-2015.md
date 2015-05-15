@@ -32,7 +32,7 @@ A apresentação da conferência ficou por conta do [Daniel Filho](https://twitt
 
 **Slides:** [https://speakerdeck.com/zehfernandes/motion-u-dot-i-with-style](https://speakerdeck.com/zehfernandes/motion-u-dot-i-with-style)
 
-Na primeira palestra do dia, o [Ze Fernandes]() falou sobre *motion UI* e animações com CSS.
+Na primeira palestra do dia, o [Zeh Fernandes](https://twitter.com/zehf) falou sobre *motion UI* e animações com CSS.
 
 Vimos uma linha do tempo sobre animações na Web, passando desde o inicio onde a famosa tag `blink` era muita utilizada, depois chegaram as animações feitas em Java, e a "era de ouro do Flash", até que o HTML5 e o CSS3 começaram ganhar espaço. Interessante notar que, nesse inicio da "era HTML5 e CSS3", existia uma grande tendência de querermos imitar os efeitos que antes eram criados com Flash.
 
