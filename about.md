@@ -4,7 +4,7 @@ title: Sobre
 permalink: /about/
 ---
 
-Formado em Gestão de Tecnologia da Informação, atualmente moro no interior de São Paulo e trabalho como **Analista de Front-End** na Finch Soluções.
+Formado em Gestão de Tecnologia da Informação, atualmente moro no interior de São Paulo e trabalho como **Front-End Developer** na HE:labs.
 
 Em 2007 comecei aprofundar meus conhecimentos sobre Internet e estudar mais a fundo sobre desenvolvimento Web apenas por curiosidade, até que quando me dei conta, isso havia se tornado minha profissão.
 
