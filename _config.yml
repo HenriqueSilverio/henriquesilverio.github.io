@@ -1,8 +1,9 @@
 # Site settings
 title:       Henrique Silvério
-email:       hello@henriquesilver.io
 author:      Henrique Silvério
 description: "Um blog sobre desenvolvimento Web / Front-End."
+baseurl:     ""
+url:         "http://henriquesilverio.github.io"
 
 # Google analytics
 google_analytics: UA-38436089-1
