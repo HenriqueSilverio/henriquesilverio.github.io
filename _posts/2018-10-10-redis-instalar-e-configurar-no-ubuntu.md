@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      Redis: Instalação e configuração
+title:      "Redis: Instalação e configuração"
 date:       2018-10-10 11:25:00
 summary:    Passo a passo para instalar e configurar o Redis em servidor Ubuntu.
 categories: redis
