@@ -4,22 +4,23 @@ title: Sobre
 permalink: /about/
 ---
 
-Formado em Gestão de Tecnologia da Informação, atualmente moro no interior de São Paulo.
+Formado em Gestão de Tecnologia da Informação, atualmente trabalho no [Fliper.app](https://fliper.app/), e moro no interior de São Paulo.
 
 Em 2007 comecei aprofundar meus conhecimentos sobre Internet e estudar mais a fundo sobre desenvolvimento Web apenas por curiosidade, até que quando me dei conta, isso havia se tornado minha profissão.
 
-Embora também me aventuro em linguagens *server-side* como *PHP*, meu foco principal é no Front-end: HTML5, CSS3 e JavaScript. Criar experiências, escrever código limpo, semântico e otimizado.
+Hoje tenho ampla experiência e vivência trabalhando tanto com Front-End (HTML, CSS, JavaScript) quanto com Back-End (PHP, NodeJS, MySQL, MongoDB).
 
 ### Principais Skills
 
-* HTML5
+* HTML5 
 * CSS3 (Sass, LESS)
-* JavaScript (jQuery, Backbone)
+* JavaScript (jQuery, Backbone, React)
+* NodeJS (Express)
+* PHP (Laravel, Zend, etc)
 * WordPress (Desenvolvimento de Temas e Plugins)
 * Versionamento de código (Git, Github, Bitbucket)
 * Web Design Responsivo
-* Web Standards
-* Semântica
+* Web Standards / Semântica
 * Adobe Photoshop e Fireworks (Recorte de layouts)
 * Inglês técnico (O suficiente para ler documentações, livros e artigos)
 
