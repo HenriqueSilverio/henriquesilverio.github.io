@@ -1,6 +1,7 @@
 ---
 layout: page
 title: ! 'JavaScript: Leitura obrigatória'
+summary: Dicas de livros essenciais para todo desenvolvedor JavaScript
 permalink: /livros-javascript/
 ---
 
