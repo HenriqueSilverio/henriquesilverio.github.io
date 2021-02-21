@@ -7,7 +7,7 @@ permalink: /livros-javascript/
 
 Começar a programar com JavaScript é muito fácil. A barreira de entrada é praticamente **zero**. 
 
-Qualquer pessoa em um computador com um browser instalado já tem um ambiente pronto para escrever e rodar seus primeiros programas. Isso mesmo. Simples assim. 
+Qualquer pessoa em um computador com um browser instalado já tem um ambiente pronto para escrever e rodar seus primeiros scripts. Isso mesmo. Simples assim. 
 
 E isso é ótimo! Porém, essa barreira de entrada muito pequena é também uma armadilha perigosa.
 
@@ -28,6 +28,8 @@ Pensando nisso resolvi criar essa página com indicações de **livros bons para
 **Observação:** Embora eu prefiro sempre que possível ler as versões originais (em inglês), dei preferência para citar aqui as versões traduzidas em todos os que achei.
 
 - “[JavaScript: O Guia Definitivo](https://loja.grupoa.com.br/javascript-ebook-p986893?tsid=16&gclid=CjwKCAiAmrOBBhA0EiwArn3mfEh5zyW7ZPVRsUCm-K3jzO72ywz_pMbhhW2-VqKVqJBwZ96i-LVzbhoCDVYQAvD_BwE)” by David Flanagan
+
+- "[You Don't Know JS Yet](https://github.com/getify/You-Dont-Know-JS)" by Kyle Simpson
 
 - “[Padrões Javascript: Construa Aplicações mais Robustas usando Padrões de Projeto e Programação](https://www.novatec.com.br/livros/padroesjavascript/)” by Stoyan Stefanov
 
