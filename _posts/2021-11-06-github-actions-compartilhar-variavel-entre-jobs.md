@@ -36,7 +36,7 @@ jobs:
     needs: setup
     runs-on: ubuntu-20.04
     steps:
-      run: echo SOMETHING coming from previous job ${{ needs.setup.outputs.SOMETHING }}
+      run: echo "SOMETHING coming from previous job ${{ needs.setup.outputs.SOMETHING }}"
 ```
 
 Note que, no Step `example` do Job `setup`, nós definimos o output assim:
