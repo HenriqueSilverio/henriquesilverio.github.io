@@ -6,8 +6,6 @@ summary:    Ideias centrais por trás dos microsserviços, e algumas razões pel
 categories: cloud-computing
 ---
 
-# Arquitetura de Microsserviços: Considerações iniciais
-
 Microsserviços. Microsserviços everywhere.
 
 Neste artigo trago algumas ideias centrais que estão por trás dos famigerados microsserviços, e algumas razões pelas quais esta arquitetura vem sendo amplamente adotada.
