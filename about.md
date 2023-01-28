@@ -8,7 +8,7 @@ Graduado em Gestão de Tecnologia da Informação, atualmente morando no interio
 
 Em 2007 comecei aprofundar meus conhecimentos sobre Internet e desenvolvimento Web, apenas por curiosidade... até que, quando me dei conta, isso havia se tornado minha profissão.
 
-Tenho experiência trabalhando com desenvolvimento de software no geral, tanto Front-End (HTML, CSS, JavaScript) quanto Back-End (Node.js, PHP, MySQL, PostgreSQL, MongoDB, Redis).
+Tenho experiência trabalhando com desenvolvimento de software no geral, tanto Front-End (HTML, CSS, JavaScript) quanto Back-End (Node.js, TypeScript, PHP, MySQL, PostgreSQL, MongoDB, Redis).
 
 ### Principais Skills
 
