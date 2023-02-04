@@ -41,6 +41,9 @@ Tenho experiência trabalhando com desenvolvimento de software no geral, tanto F
 * <a target="_blank" href="https://speakerdeck.com/henriquesilverio/software-architecture-fundamentals">Software Architecture Fundamentals</a> <br>
   XP Inc. (InfoMoney IM+), 12/04/2022
 
+* <a target="_blank" href="https://speakerdeck.com/henriquesilverio/eventstorming-a-gentle-introduction">EventStorming - A Gentle Introduction</a> <br>
+  XP Inc. (InfoMoney IM+), 03/2022
+
 * <a target="_blank" href="https://slides.com/henriquesilverio/npm-github-actions">Automatizando release de pacotes npm com GitHub Actions</a> <br>
   Fliper App, 22/06/2020
 
