@@ -17,13 +17,12 @@ Tenho experiência trabalhando com desenvolvimento de software no geral, tanto F
 * Mensageria (RabbitMQ)
 * HTML / CSS
 * PHP (WordPress, Laravel, Zend, etc)
-* Domain-Driven Design / Clean Architecture / Arquitetura Hexagonal
-* Orientação à objetos, Clean Code, SOLID, Design Patterns
+* Domain-Driven Design / Arquitetura Hexagonal / Clean Architecture
+* Orientação à objetos, Clean Code, SOLID, Design Patterns, Refatoração
 * Versionamento de código (Git, Github, Bitbucket) / Gitflow, SemVer
-* CI / CD e Desenvolvimento Ágil (SCRUM)
+* CI / CD / Desenvolvimento Ágil
 * Docker, Kubernetes e Cloud Computing
 * Observabilidade (Tracing, Métricas e Logs)
-* Inglês técnico (O suficiente para ler documentações, livros, artigos e entender vídeo aulas)
 
 ### Certificações
 
